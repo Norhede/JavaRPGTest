@@ -1,0 +1,23 @@
+Achievements add %-based bonuses to stats
+
+Monsters have a chance to spawn as Normal (88%), Enraged (10%), Mutant (2%).
+
+Kill 1/10/100 of a specific monster to be able too learn more about it and its stats
+
+When expedition is started, roll the expedition monsters, and list them to the player. The player can then view the upcoming monsters to face, and see if there are any enraged or mutants within.
+
+    // Proficiencies
+
+Proficiencies for different weapon types - melee, ranged, magic.
+
+Swords (Knife, Dagger, Rapier, Long Sword (2H), Bastard Sword (2H), Great Sword (2H))
+Axes (Hatchet, Hand Axe, Felling Axe, War Axe (2H), Great Axe (2H), Giant Axe (2H))
+Bows (2H) (Short Bow, Horn Bow, Long Bow, Recurve Bow, War Bow)
+Crossbows (Hand Crossbow, Light Crossbow, Footmans Crossbow (2H) Heavy Crossbow (2H), War Crossbow (2H))
+Offensive Spells (Fire, Ice, Lightning)
+Defensive Spells (Healing, Shielding, Buffing)
+
+
+Random chance stuff - USE IT!
+
+//Fight.arena.fightMonster(Player.testPlayer, Monster.testMonster);
